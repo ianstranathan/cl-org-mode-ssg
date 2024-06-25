@@ -1,0 +1,8 @@
+
+* TODO
+- [ ] Clean up pages dir
+;; TODO:
+;; Category pages need link injections as well
+
+;; the pathname str to pages dir
+;; clean this up!
